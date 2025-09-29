@@ -27,6 +27,7 @@
       - python3-psutil
       - solaar
       - gdm-settings
+      - timeshift
 
 - name: Install packages
   snap:
