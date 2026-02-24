@@ -28,6 +28,10 @@
       - solaar
       - gdm-settings
       - timeshift
+			- flatpak
+			- wireshark
+			- orca
+			- balena-etcher
 
 - name: Install packages
   snap:
