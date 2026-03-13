@@ -32,8 +32,8 @@
       - wireshark
       - orca
       - balena-etcher
-			- clamav
-			- clamav-daemon
+      - clamav
+      - clamav-daemon
 
 - name: Install packages
   snap:
