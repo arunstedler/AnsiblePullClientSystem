@@ -38,6 +38,7 @@
       - obs-studio
       - virtualbox
       - netdata
+      - screenfetch
 
 - name: Install packages
   snap:
