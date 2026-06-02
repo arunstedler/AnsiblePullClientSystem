@@ -36,6 +36,7 @@
       - clamav-daemon
       - handbreak
       - obs-studio
+      - virtualbox
 
 - name: Install packages
   snap:
