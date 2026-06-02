@@ -1,5 +1,6 @@
 - name: Install packages
   apt:
+  become_user: andrew
     name:
       - htop
       - tmux
