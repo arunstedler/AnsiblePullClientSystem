@@ -33,7 +33,6 @@
       - balena-etcher
       - clamav
       - clamav-daemon
-      - handbreak
       - obs-studio
       - virtualbox
       - netdata
