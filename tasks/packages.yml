@@ -37,6 +37,7 @@
       - virtualbox
       - netdata
       - neofetch
+      - lm-studio
 
 - name: Install packages
   snap:
