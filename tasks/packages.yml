@@ -37,6 +37,7 @@
       - handbreak
       - obs-studio
       - virtualbox
+      - netdata
 
 - name: Install packages
   snap:
