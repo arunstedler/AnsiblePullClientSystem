@@ -37,7 +37,7 @@
       - obs-studio
       - virtualbox
       - netdata
-      - screenfetch
+      - neofetch
 
 - name: Install packages
   snap:
