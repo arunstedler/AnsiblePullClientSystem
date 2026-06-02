@@ -35,6 +35,7 @@
       - clamav
       - clamav-daemon
       - handbreak
+      - obs-studio
 
 - name: Install packages
   snap:
