@@ -29,7 +29,6 @@
       - flatpak
       - wireshark
       - orca
-      - balena-etcher
       - clamav
       - clamav-daemon
       - obs-studio
